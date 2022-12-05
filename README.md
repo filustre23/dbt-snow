@@ -1,1 +1,1 @@
-snowflake dbt core + dbt cloud set up
+snowflake database dbt core + dbt cloud set up
