@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: amazon_bronze_reviews
+    database: project
+    tables:
+      - name: raw_reviews
